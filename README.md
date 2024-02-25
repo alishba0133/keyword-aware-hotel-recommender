@@ -15,7 +15,7 @@ This project presents a data-driven solution that personalizes hotel recommendat
 
 2. You simply select your desired features from a curated list of keywords. Our system then identifies other users with similar preferences, forming your "travel tribe."
 
-3. PersonalBased on your  preferences, the top 5 hotels that are most likely to meet your individual needs are recommended.
+3. Based on your preferences, the top 5 hotels that are most likely to meet your individual needs are recommended.
 
 We will be using Pandas for data cleaning, NTLK for text preprocessing, Jaccard and Cosine for similarity computation and custom ranking algorithms that prioritize hotels that best match your extracted preferences.
 
