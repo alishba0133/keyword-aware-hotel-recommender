@@ -11,7 +11,7 @@ Traditional online hotel searches rely solely on overall ratings, often neglecti
 
 This project presents a data-driven solution that personalizes hotel recommendations based on YOUR unique preferences.
 
-1. Unveiling Hidden Preferences: We leverage machine learning to analyze hotel reviews, extracting specific preferences expressed by previous users (e.g., comfort, cleanliness, food quality). This goes beyond overall ratings, building detailed user profiles capturing individual priorities.
+1. Unveiling Hidden Preferences: We leverage NLP to analyze hotel reviews, extracting specific preferences expressed by previous users (e.g., comfort, cleanliness, food quality). This goes beyond overall ratings, building detailed user profiles capturing individual priorities.
 
 2. You simply select your desired features from a curated list of keywords. Our system then identifies other users with similar preferences, forming your "travel tribe."
 
